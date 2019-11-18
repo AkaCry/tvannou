@@ -12,10 +12,10 @@ Pour écouter IPTV vous pouvez utiliser ce lien, avec n'importe quel logiciel qu
 
 Vous pouvez utiliser ces liens selon vos préférences:
 
-- `https://iptv-org.github.io/iptv/index.full.m3u` (Par pays et catégories)
-- `https://iptv-org.github.io/iptv/index.country.m3u` (Par pays)
-- `https://iptv-org.github.io/iptv/index.category.m3u` (Par catégories)
-- `https://iptv-org.github.io/iptv/index.language.m3u` (par langues)
+- `https://akacry.github.io/tvannou/index.full.m3u` (Par pays et catégories)
+- `https://akacry.github.io/tvannou/index.country.m3u` (Par pays)
+- `https://akacry.github.io/tvannou/index.category.m3u` (Par catégories)
+- `https://akacry.github.io/tvannou/index.language.m3u` (par langues)
 
 Ou sélectionnez l'une des listes de lecture dans la liste ci-dessous.
 
@@ -34,7 +34,7 @@ Ou sélectionnez l'une des listes de lecture dans la liste ci-dessous.
 		<tr><th align="left">Country</th><th align="right">Channels</th><th align="left">Playlist</th><th align="left">EPG</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">Haiti</td><td align="right">16</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/countries/ht.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Haiti</td><td align="right">16</td><td align="left" nowrap><code>https://akacry.github.io/tvannou/countries/ht.m3u</code></td><td align="left"></td></tr>
 		
 	</tbody>
 </table>
