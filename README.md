@@ -35,7 +35,7 @@ Ou sélectionnez l'une des listes de lecture dans la liste ci-dessous.
 	</thead>
 	<tbody>
 		<tr><td align="left">Haiti</td><td align="right">16</td><td align="left" nowrap><code>https://akacry.github.io/tvannou/countries/ht.m3u</code></td><td align="left"></td></tr>
-		
+		<tr><td align="left">Haiti</td><td align="right">16</td><td align="left" nowrap><code>https://akacry.github.io/tvannou/countries/ht.m3u</code></td><td align="left"></td></tr>
 	</tbody>
 </table>
 
