@@ -19,15 +19,15 @@ Vous pouvez utiliser ces liens selon vos préférences:
 
 Ou sélectionnez l'une des listes de lecture dans la liste ci-dessous.
 
-## Playlists by category
+## Liste de lecture par catégorie
 
 
 
-## Playlists by language
+## Liste de lecture par langue
 
 
 
-## Playlists by country
+## Liste de lecture par pays
 
 <table>
 	<thead>
