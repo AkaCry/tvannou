@@ -1,25 +1,25 @@
-# TVANNOU
+# IPTV
 
-La télévision sur protocole Internet (IPTV) est la diffusion de contenu télévisé sur des réseaux IP (Internet Protocol). TVannou vous propose une collection de plus de 6000+ chaines dans le monde entier.
+Collection of 8000+ publicly available IPTV channels from all over the world. 
 
-Toute utilisation de ce protocole engage notre responsabilité....
+Internet Protocol television (IPTV) is the delivery of television content over Internet Protocol (IP) networks. 
 
-## Utilisation
+## Usage
 
-Pour écouter IPTV vous pouvez utiliser ce lien, avec n'importe quel logiciel qui supporte la lecture du fichier M3U.
+To watch IPTV you just need to paste this link `https://akacry.github.io/tvannou/index.m3u` to any player with support M3U-playlists.
 
 ![VLC Network Panel](preview.png)
 
-Vous pouvez utiliser ces liens selon vos préférences:
+Also you can instead use one of these playlists:
 
-- `https://akacry.github.io/tvannou/index.full.m3u` (Par pays et catégories)
-- `https://akacry.github.io/tvannou/index.country.m3u` (Par pays)
-- `https://akacry.github.io/tvannou/index.category.m3u` (Par catégories)
-- `https://akacry.github.io/tvannou/index.language.m3u` (par langues)
+- `https://akacry.github.io/tvannou/index.full.m3u` (grouped by country and category)
+- `https://akacry.github.io/tvannou/index.country.m3u` (grouped by country)
+- `https://akacry.github.io/tvannou/index.category.m3u` (grouped by category)
+- `https://akacry.github.io/tvannou/index.language.m3u` (grouped by language)
 
-Ou sélectionnez l'une des listes de lecture dans la liste ci-dessous.
+Or select one of the playlists from the list below.
 
-## Liste de lecture par catégorie
+## Playlists by category
 
 <table>
 	<thead>
@@ -56,8 +56,7 @@ Ou sélectionnez l'une des listes de lecture dans la liste ci-dessous.
 	</tbody>
 </table>
 
-
-## Liste de lecture par langue
+## Playlists by language
 
 <table>
 	<thead>
@@ -136,8 +135,7 @@ Ou sélectionnez l'une des listes de lecture dans la liste ci-dessous.
 	</tbody>
 </table>
 
-
-## Liste de lecture par pays
+## Playlists by country
 
 <table>
 	<thead>
@@ -308,6 +306,10 @@ Ou sélectionnez l'une des listes de lecture dans la liste ci-dessous.
 
 ## Resources
 
-
+You can find a links to various IPTV related resources in a separate [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) repository.
 
 ## Contribution
+
+Please make sure to read the [Contributing Guide](.github/CONTRIBUTING.md) before making a pull request.
+
+If you just found an error or have any suggestions on how to organize a playlist please send an [issue](https://github.com/iptv-org/iptv/issues).
